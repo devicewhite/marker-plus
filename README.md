@@ -1,3 +1,6 @@
+# Motivo do Fork
+Preparando uma versão em plugin...
+
 [![samp-include](https://img.shields.io/badge/sa--mp-library-2f2f2f.svg?style=for-the-badge)](https://github.com/Ramon-Sd/marker-plus)
 
 <img src="readme-images/example.png" alt="exemplo imagem">
